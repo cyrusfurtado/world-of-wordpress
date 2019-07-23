@@ -1,0 +1,18 @@
+header.header-block {
+    width: 100%;
+    height: 3rem;
+}
+
+.header-block nav > a{
+    padding: 1%;
+}
+
+.header-block nav a:hover{
+    background: cyan;
+    cursor: pointer;
+}
+
+.header-block nav a:active{
+    background: blue;
+    color: #fff;
+}
